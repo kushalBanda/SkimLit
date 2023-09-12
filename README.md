@@ -33,6 +33,7 @@ Model 4: Combining pretrained token embeddings + character embeddings (hybrid em
 ```
 > Model 5: Transfer learning with pretrained token embeddings + character embeddings + positional embeddings
 ```
+![Results](Models/Model_5.png)
 
 ### Prerequisites
 
